@@ -1,0 +1,852 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "slug": "the-ultimate-guide-to-beginner-pet-grooming-care",
+      "title": "The Ultimate Guide to Beginner Pet Grooming Care",
+      "category": "beginner-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.855364",
+      "image": {
+        "id": "a9a496bc02ff946103c6756ff7e371ba5f303372e1538def8a470447311eaeae",
+        "url": "https://picsum.photos/1200/458?random=145",
+        "alt": "Featured image for: The Ultimate Guide to Beginner Pet Grooming Care",
+        "width": 1200,
+        "height": 458
+      }
+    },
+    {
+      "id": 2,
+      "slug": "beginner-pet-grooming-care-everything-you-need-to-know",
+      "title": "Beginner Pet Grooming Care: Everything You Need to Know",
+      "category": "beginner-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.855426",
+      "image": {
+        "id": "81c3440bf5f21661ec5ba5f9cc6eb95c6d8ff6ff4e82805755b432efca8bdb4d",
+        "url": "https://picsum.photos/898/462?random=688",
+        "alt": "Featured image for: Beginner Pet Grooming Care: Everything You Need to Know",
+        "width": 898,
+        "height": 462
+      }
+    },
+    {
+      "id": 3,
+      "slug": "understanding-beginner-pet-grooming-care",
+      "title": "Understanding Beginner Pet Grooming Care",
+      "category": "beginner-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.855464",
+      "image": {
+        "id": "02a793728257b5ebe5776d883da4264ad86db729858acc9b0f0b5609df8b0f7d",
+        "url": "https://picsum.photos/1129/595?random=70",
+        "alt": "Featured image for: Understanding Beginner Pet Grooming Care",
+        "width": 1129,
+        "height": 595
+      }
+    },
+    {
+      "id": 4,
+      "slug": "beginner-pet-grooming-care-tips-and-best-practices",
+      "title": "Beginner Pet Grooming Care Tips and Best Practices",
+      "category": "beginner-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.855499",
+      "image": {
+        "id": "8e9019a3cae86228c83df1a07c09561a668f196bea7675356a2ed6903a6b5a03",
+        "url": "https://picsum.photos/858/513?random=620",
+        "alt": "Featured image for: Beginner Pet Grooming Care Tips and Best Practices",
+        "width": 858,
+        "height": 513
+      }
+    },
+    {
+      "id": 5,
+      "slug": "the-history-of-beginner-pet-grooming-care",
+      "title": "The History of Beginner Pet Grooming Care",
+      "category": "beginner-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.855535",
+      "image": {
+        "id": "cc450b46b595a26cb936d316b74e511fcef7fb58e848243bd836a5deb691d241",
+        "url": "https://picsum.photos/1039/493?random=539",
+        "alt": "Featured image for: The History of Beginner Pet Grooming Care",
+        "width": 1039,
+        "height": 493
+      }
+    },
+    {
+      "id": 6,
+      "slug": "beginner-pet-grooming-care-in-2026-current-trends",
+      "title": "Beginner Pet Grooming Care in 2026: Current Trends",
+      "category": "beginner-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.855569",
+      "image": {
+        "id": "8e9019a3cae86228c83df1a07c09561a668f196bea7675356a2ed6903a6b5a03",
+        "url": "https://picsum.photos/858/513?random=620",
+        "alt": "Featured image for: Beginner Pet Grooming Care in 2026: Current Trends",
+        "width": 858,
+        "height": 513
+      }
+    },
+    {
+      "id": 7,
+      "slug": "future-of-beginner-pet-grooming-care",
+      "title": "Future of Beginner Pet Grooming Care",
+      "category": "beginner-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.855604",
+      "image": {
+        "id": "a9a496bc02ff946103c6756ff7e371ba5f303372e1538def8a470447311eaeae",
+        "url": "https://picsum.photos/1200/458?random=145",
+        "alt": "Featured image for: Future of Beginner Pet Grooming Care",
+        "width": 1200,
+        "height": 458
+      }
+    },
+    {
+      "id": 8,
+      "slug": "common-mistakes-in-beginner-pet-grooming-care",
+      "title": "Common Mistakes in Beginner Pet Grooming Care",
+      "category": "beginner-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.855638",
+      "image": {
+        "id": "cc450b46b595a26cb936d316b74e511fcef7fb58e848243bd836a5deb691d241",
+        "url": "https://picsum.photos/1039/493?random=539",
+        "alt": "Featured image for: Common Mistakes in Beginner Pet Grooming Care",
+        "width": 1039,
+        "height": 493
+      }
+    },
+    {
+      "id": 9,
+      "slug": "beginner-pet-grooming-care-for-beginners",
+      "title": "Beginner Pet Grooming Care for Beginners",
+      "category": "beginner-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.855671",
+      "image": {
+        "id": "02a793728257b5ebe5776d883da4264ad86db729858acc9b0f0b5609df8b0f7d",
+        "url": "https://picsum.photos/1129/595?random=70",
+        "alt": "Featured image for: Beginner Pet Grooming Care for Beginners",
+        "width": 1129,
+        "height": 595
+      }
+    },
+    {
+      "id": 10,
+      "slug": "advanced-beginner-pet-grooming-care-techniques",
+      "title": "Advanced Beginner Pet Grooming Care Techniques",
+      "category": "beginner-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.855703",
+      "image": {
+        "id": "02a793728257b5ebe5776d883da4264ad86db729858acc9b0f0b5609df8b0f7d",
+        "url": "https://picsum.photos/1129/595?random=70",
+        "alt": "Featured image for: Advanced Beginner Pet Grooming Care Techniques",
+        "width": 1129,
+        "height": 595
+      }
+    },
+    {
+      "id": 19,
+      "slug": "the-ultimate-guide-to-advanced-pet-grooming-care",
+      "title": "The Ultimate Guide to Advanced Pet Grooming Care",
+      "category": "advanced-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.855988",
+      "image": {
+        "id": "8e9019a3cae86228c83df1a07c09561a668f196bea7675356a2ed6903a6b5a03",
+        "url": "https://picsum.photos/858/513?random=620",
+        "alt": "Featured image for: The Ultimate Guide to Advanced Pet Grooming Care",
+        "width": 858,
+        "height": 513
+      }
+    },
+    {
+      "id": 20,
+      "slug": "advanced-pet-grooming-care-everything-you-need-to-know",
+      "title": "Advanced Pet Grooming Care: Everything You Need to Know",
+      "category": "advanced-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.856019",
+      "image": {
+        "id": "a9a496bc02ff946103c6756ff7e371ba5f303372e1538def8a470447311eaeae",
+        "url": "https://picsum.photos/1200/458?random=145",
+        "alt": "Featured image for: Advanced Pet Grooming Care: Everything You Need to Know",
+        "width": 1200,
+        "height": 458
+      }
+    },
+    {
+      "id": 21,
+      "slug": "understanding-advanced-pet-grooming-care",
+      "title": "Understanding Advanced Pet Grooming Care",
+      "category": "advanced-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.856052",
+      "image": {
+        "id": "8e9019a3cae86228c83df1a07c09561a668f196bea7675356a2ed6903a6b5a03",
+        "url": "https://picsum.photos/858/513?random=620",
+        "alt": "Featured image for: Understanding Advanced Pet Grooming Care",
+        "width": 858,
+        "height": 513
+      }
+    },
+    {
+      "id": 22,
+      "slug": "advanced-pet-grooming-care-tips-and-best-practices",
+      "title": "Advanced Pet Grooming Care Tips and Best Practices",
+      "category": "advanced-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.856085",
+      "image": {
+        "id": "8e9019a3cae86228c83df1a07c09561a668f196bea7675356a2ed6903a6b5a03",
+        "url": "https://picsum.photos/858/513?random=620",
+        "alt": "Featured image for: Advanced Pet Grooming Care Tips and Best Practices",
+        "width": 858,
+        "height": 513
+      }
+    },
+    {
+      "id": 23,
+      "slug": "the-history-of-advanced-pet-grooming-care",
+      "title": "The History of Advanced Pet Grooming Care",
+      "category": "advanced-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.856122",
+      "image": {
+        "id": "02a793728257b5ebe5776d883da4264ad86db729858acc9b0f0b5609df8b0f7d",
+        "url": "https://picsum.photos/1129/595?random=70",
+        "alt": "Featured image for: The History of Advanced Pet Grooming Care",
+        "width": 1129,
+        "height": 595
+      }
+    },
+    {
+      "id": 24,
+      "slug": "advanced-pet-grooming-care-in-2026-current-trends",
+      "title": "Advanced Pet Grooming Care in 2026: Current Trends",
+      "category": "advanced-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.856154",
+      "image": {
+        "id": "a9a496bc02ff946103c6756ff7e371ba5f303372e1538def8a470447311eaeae",
+        "url": "https://picsum.photos/1200/458?random=145",
+        "alt": "Featured image for: Advanced Pet Grooming Care in 2026: Current Trends",
+        "width": 1200,
+        "height": 458
+      }
+    },
+    {
+      "id": 25,
+      "slug": "future-of-advanced-pet-grooming-care",
+      "title": "Future of Advanced Pet Grooming Care",
+      "category": "advanced-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.856187",
+      "image": {
+        "id": "cc450b46b595a26cb936d316b74e511fcef7fb58e848243bd836a5deb691d241",
+        "url": "https://picsum.photos/1039/493?random=539",
+        "alt": "Featured image for: Future of Advanced Pet Grooming Care",
+        "width": 1039,
+        "height": 493
+      }
+    },
+    {
+      "id": 26,
+      "slug": "common-mistakes-in-advanced-pet-grooming-care",
+      "title": "Common Mistakes in Advanced Pet Grooming Care",
+      "category": "advanced-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.856220",
+      "image": {
+        "id": "81c3440bf5f21661ec5ba5f9cc6eb95c6d8ff6ff4e82805755b432efca8bdb4d",
+        "url": "https://picsum.photos/898/462?random=688",
+        "alt": "Featured image for: Common Mistakes in Advanced Pet Grooming Care",
+        "width": 898,
+        "height": 462
+      }
+    },
+    {
+      "id": 27,
+      "slug": "advanced-pet-grooming-care-for-beginners",
+      "title": "Advanced Pet Grooming Care for Beginners",
+      "category": "advanced-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.856252",
+      "image": {
+        "id": "cc450b46b595a26cb936d316b74e511fcef7fb58e848243bd836a5deb691d241",
+        "url": "https://picsum.photos/1039/493?random=539",
+        "alt": "Featured image for: Advanced Pet Grooming Care for Beginners",
+        "width": 1039,
+        "height": 493
+      }
+    },
+    {
+      "id": 28,
+      "slug": "advanced-advanced-pet-grooming-care-techniques",
+      "title": "Advanced Advanced Pet Grooming Care Techniques",
+      "category": "advanced-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.856284",
+      "image": {
+        "id": "a9a496bc02ff946103c6756ff7e371ba5f303372e1538def8a470447311eaeae",
+        "url": "https://picsum.photos/1200/458?random=145",
+        "alt": "Featured image for: Advanced Advanced Pet Grooming Care Techniques",
+        "width": 1200,
+        "height": 458
+      }
+    },
+    {
+      "id": 37,
+      "slug": "the-ultimate-guide-to-pet-grooming-care-tips",
+      "title": "The Ultimate Guide to Pet Grooming Care Tips",
+      "category": "tips-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.856567",
+      "image": {
+        "id": "a9a496bc02ff946103c6756ff7e371ba5f303372e1538def8a470447311eaeae",
+        "url": "https://picsum.photos/1200/458?random=145",
+        "alt": "Featured image for: The Ultimate Guide to Pet Grooming Care Tips",
+        "width": 1200,
+        "height": 458
+      }
+    },
+    {
+      "id": 38,
+      "slug": "pet-grooming-care-tips-everything-you-need-to-know",
+      "title": "Pet Grooming Care Tips: Everything You Need to Know",
+      "category": "tips-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.856599",
+      "image": {
+        "id": "81c3440bf5f21661ec5ba5f9cc6eb95c6d8ff6ff4e82805755b432efca8bdb4d",
+        "url": "https://picsum.photos/898/462?random=688",
+        "alt": "Featured image for: Pet Grooming Care Tips: Everything You Need to Know",
+        "width": 898,
+        "height": 462
+      }
+    },
+    {
+      "id": 39,
+      "slug": "understanding-pet-grooming-care-tips",
+      "title": "Understanding Pet Grooming Care Tips",
+      "category": "tips-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.856630",
+      "image": {
+        "id": "8e9019a3cae86228c83df1a07c09561a668f196bea7675356a2ed6903a6b5a03",
+        "url": "https://picsum.photos/858/513?random=620",
+        "alt": "Featured image for: Understanding Pet Grooming Care Tips",
+        "width": 858,
+        "height": 513
+      }
+    },
+    {
+      "id": 40,
+      "slug": "pet-grooming-care-tips-tips-and-best-practices",
+      "title": "Pet Grooming Care Tips Tips and Best Practices",
+      "category": "tips-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.856661",
+      "image": {
+        "id": "cc450b46b595a26cb936d316b74e511fcef7fb58e848243bd836a5deb691d241",
+        "url": "https://picsum.photos/1039/493?random=539",
+        "alt": "Featured image for: Pet Grooming Care Tips Tips and Best Practices",
+        "width": 1039,
+        "height": 493
+      }
+    },
+    {
+      "id": 41,
+      "slug": "the-history-of-pet-grooming-care-tips",
+      "title": "The History of Pet Grooming Care Tips",
+      "category": "tips-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.856753",
+      "image": {
+        "id": "81c3440bf5f21661ec5ba5f9cc6eb95c6d8ff6ff4e82805755b432efca8bdb4d",
+        "url": "https://picsum.photos/898/462?random=688",
+        "alt": "Featured image for: The History of Pet Grooming Care Tips",
+        "width": 898,
+        "height": 462
+      }
+    },
+    {
+      "id": 42,
+      "slug": "pet-grooming-care-tips-in-2026-current-trends",
+      "title": "Pet Grooming Care Tips in 2026: Current Trends",
+      "category": "tips-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.856786",
+      "image": {
+        "id": "81c3440bf5f21661ec5ba5f9cc6eb95c6d8ff6ff4e82805755b432efca8bdb4d",
+        "url": "https://picsum.photos/898/462?random=688",
+        "alt": "Featured image for: Pet Grooming Care Tips in 2026: Current Trends",
+        "width": 898,
+        "height": 462
+      }
+    },
+    {
+      "id": 43,
+      "slug": "future-of-pet-grooming-care-tips",
+      "title": "Future of Pet Grooming Care Tips",
+      "category": "tips-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.856820",
+      "image": {
+        "id": "8e9019a3cae86228c83df1a07c09561a668f196bea7675356a2ed6903a6b5a03",
+        "url": "https://picsum.photos/858/513?random=620",
+        "alt": "Featured image for: Future of Pet Grooming Care Tips",
+        "width": 858,
+        "height": 513
+      }
+    },
+    {
+      "id": 44,
+      "slug": "common-mistakes-in-pet-grooming-care-tips",
+      "title": "Common Mistakes in Pet Grooming Care Tips",
+      "category": "tips-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.856915",
+      "image": {
+        "id": "a9a496bc02ff946103c6756ff7e371ba5f303372e1538def8a470447311eaeae",
+        "url": "https://picsum.photos/1200/458?random=145",
+        "alt": "Featured image for: Common Mistakes in Pet Grooming Care Tips",
+        "width": 1200,
+        "height": 458
+      }
+    },
+    {
+      "id": 45,
+      "slug": "pet-grooming-care-tips-for-beginners",
+      "title": "Pet Grooming Care Tips for Beginners",
+      "category": "tips-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.856963",
+      "image": {
+        "id": "cc450b46b595a26cb936d316b74e511fcef7fb58e848243bd836a5deb691d241",
+        "url": "https://picsum.photos/1039/493?random=539",
+        "alt": "Featured image for: Pet Grooming Care Tips for Beginners",
+        "width": 1039,
+        "height": 493
+      }
+    },
+    {
+      "id": 46,
+      "slug": "advanced-pet-grooming-care-tips-techniques",
+      "title": "Advanced Pet Grooming Care Tips Techniques",
+      "category": "tips-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.857001",
+      "image": {
+        "id": "8e9019a3cae86228c83df1a07c09561a668f196bea7675356a2ed6903a6b5a03",
+        "url": "https://picsum.photos/858/513?random=620",
+        "alt": "Featured image for: Advanced Pet Grooming Care Tips Techniques",
+        "width": 858,
+        "height": 513
+      }
+    },
+    {
+      "id": 55,
+      "slug": "the-ultimate-guide-to-pet-grooming-care-history",
+      "title": "The Ultimate Guide to Pet Grooming Care History",
+      "category": "history-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.857312",
+      "image": {
+        "id": "cc450b46b595a26cb936d316b74e511fcef7fb58e848243bd836a5deb691d241",
+        "url": "https://picsum.photos/1039/493?random=539",
+        "alt": "Featured image for: The Ultimate Guide to Pet Grooming Care History",
+        "width": 1039,
+        "height": 493
+      }
+    },
+    {
+      "id": 56,
+      "slug": "pet-grooming-care-history-everything-you-need-to-know",
+      "title": "Pet Grooming Care History: Everything You Need to Know",
+      "category": "history-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.857362",
+      "image": {
+        "id": "81c3440bf5f21661ec5ba5f9cc6eb95c6d8ff6ff4e82805755b432efca8bdb4d",
+        "url": "https://picsum.photos/898/462?random=688",
+        "alt": "Featured image for: Pet Grooming Care History: Everything You Need to Know",
+        "width": 898,
+        "height": 462
+      }
+    },
+    {
+      "id": 57,
+      "slug": "understanding-pet-grooming-care-history",
+      "title": "Understanding Pet Grooming Care History",
+      "category": "history-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.857439",
+      "image": {
+        "id": "cc450b46b595a26cb936d316b74e511fcef7fb58e848243bd836a5deb691d241",
+        "url": "https://picsum.photos/1039/493?random=539",
+        "alt": "Featured image for: Understanding Pet Grooming Care History",
+        "width": 1039,
+        "height": 493
+      }
+    },
+    {
+      "id": 58,
+      "slug": "pet-grooming-care-history-tips-and-best-practices",
+      "title": "Pet Grooming Care History Tips and Best Practices",
+      "category": "history-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.857481",
+      "image": {
+        "id": "02a793728257b5ebe5776d883da4264ad86db729858acc9b0f0b5609df8b0f7d",
+        "url": "https://picsum.photos/1129/595?random=70",
+        "alt": "Featured image for: Pet Grooming Care History Tips and Best Practices",
+        "width": 1129,
+        "height": 595
+      }
+    },
+    {
+      "id": 59,
+      "slug": "the-history-of-pet-grooming-care-history",
+      "title": "The History of Pet Grooming Care History",
+      "category": "history-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.857522",
+      "image": {
+        "id": "8e9019a3cae86228c83df1a07c09561a668f196bea7675356a2ed6903a6b5a03",
+        "url": "https://picsum.photos/858/513?random=620",
+        "alt": "Featured image for: The History of Pet Grooming Care History",
+        "width": 858,
+        "height": 513
+      }
+    },
+    {
+      "id": 60,
+      "slug": "pet-grooming-care-history-in-2026-current-trends",
+      "title": "Pet Grooming Care History in 2026: Current Trends",
+      "category": "history-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.857560",
+      "image": {
+        "id": "81c3440bf5f21661ec5ba5f9cc6eb95c6d8ff6ff4e82805755b432efca8bdb4d",
+        "url": "https://picsum.photos/898/462?random=688",
+        "alt": "Featured image for: Pet Grooming Care History in 2026: Current Trends",
+        "width": 898,
+        "height": 462
+      }
+    },
+    {
+      "id": 61,
+      "slug": "future-of-pet-grooming-care-history",
+      "title": "Future of Pet Grooming Care History",
+      "category": "history-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.857599",
+      "image": {
+        "id": "81c3440bf5f21661ec5ba5f9cc6eb95c6d8ff6ff4e82805755b432efca8bdb4d",
+        "url": "https://picsum.photos/898/462?random=688",
+        "alt": "Featured image for: Future of Pet Grooming Care History",
+        "width": 898,
+        "height": 462
+      }
+    },
+    {
+      "id": 62,
+      "slug": "common-mistakes-in-pet-grooming-care-history",
+      "title": "Common Mistakes in Pet Grooming Care History",
+      "category": "history-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.857642",
+      "image": {
+        "id": "cc450b46b595a26cb936d316b74e511fcef7fb58e848243bd836a5deb691d241",
+        "url": "https://picsum.photos/1039/493?random=539",
+        "alt": "Featured image for: Common Mistakes in Pet Grooming Care History",
+        "width": 1039,
+        "height": 493
+      }
+    },
+    {
+      "id": 63,
+      "slug": "pet-grooming-care-history-for-beginners",
+      "title": "Pet Grooming Care History for Beginners",
+      "category": "history-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.857698",
+      "image": {
+        "id": "8e9019a3cae86228c83df1a07c09561a668f196bea7675356a2ed6903a6b5a03",
+        "url": "https://picsum.photos/858/513?random=620",
+        "alt": "Featured image for: Pet Grooming Care History for Beginners",
+        "width": 858,
+        "height": 513
+      }
+    },
+    {
+      "id": 64,
+      "slug": "advanced-pet-grooming-care-history-techniques",
+      "title": "Advanced Pet Grooming Care History Techniques",
+      "category": "history-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.857780",
+      "image": {
+        "id": "a9a496bc02ff946103c6756ff7e371ba5f303372e1538def8a470447311eaeae",
+        "url": "https://picsum.photos/1200/458?random=145",
+        "alt": "Featured image for: Advanced Pet Grooming Care History Techniques",
+        "width": 1200,
+        "height": 458
+      }
+    },
+    {
+      "id": 73,
+      "slug": "the-ultimate-guide-to-trending-pet-grooming-care",
+      "title": "The Ultimate Guide to Trending Pet Grooming Care",
+      "category": "trending-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.858092",
+      "image": {
+        "id": "cc450b46b595a26cb936d316b74e511fcef7fb58e848243bd836a5deb691d241",
+        "url": "https://picsum.photos/1039/493?random=539",
+        "alt": "Featured image for: The Ultimate Guide to Trending Pet Grooming Care",
+        "width": 1039,
+        "height": 493
+      }
+    },
+    {
+      "id": 74,
+      "slug": "trending-pet-grooming-care-everything-you-need-to-know",
+      "title": "Trending Pet Grooming Care: Everything You Need to Know",
+      "category": "trending-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.858126",
+      "image": {
+        "id": "cc450b46b595a26cb936d316b74e511fcef7fb58e848243bd836a5deb691d241",
+        "url": "https://picsum.photos/1039/493?random=539",
+        "alt": "Featured image for: Trending Pet Grooming Care: Everything You Need to Know",
+        "width": 1039,
+        "height": 493
+      }
+    },
+    {
+      "id": 75,
+      "slug": "understanding-trending-pet-grooming-care",
+      "title": "Understanding Trending Pet Grooming Care",
+      "category": "trending-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.858161",
+      "image": {
+        "id": "81c3440bf5f21661ec5ba5f9cc6eb95c6d8ff6ff4e82805755b432efca8bdb4d",
+        "url": "https://picsum.photos/898/462?random=688",
+        "alt": "Featured image for: Understanding Trending Pet Grooming Care",
+        "width": 898,
+        "height": 462
+      }
+    },
+    {
+      "id": 76,
+      "slug": "trending-pet-grooming-care-tips-and-best-practices",
+      "title": "Trending Pet Grooming Care Tips and Best Practices",
+      "category": "trending-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.858194",
+      "image": {
+        "id": "02a793728257b5ebe5776d883da4264ad86db729858acc9b0f0b5609df8b0f7d",
+        "url": "https://picsum.photos/1129/595?random=70",
+        "alt": "Featured image for: Trending Pet Grooming Care Tips and Best Practices",
+        "width": 1129,
+        "height": 595
+      }
+    },
+    {
+      "id": 77,
+      "slug": "the-history-of-trending-pet-grooming-care",
+      "title": "The History of Trending Pet Grooming Care",
+      "category": "trending-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.858229",
+      "image": {
+        "id": "a9a496bc02ff946103c6756ff7e371ba5f303372e1538def8a470447311eaeae",
+        "url": "https://picsum.photos/1200/458?random=145",
+        "alt": "Featured image for: The History of Trending Pet Grooming Care",
+        "width": 1200,
+        "height": 458
+      }
+    },
+    {
+      "id": 78,
+      "slug": "trending-pet-grooming-care-in-2026-current-trends",
+      "title": "Trending Pet Grooming Care in 2026: Current Trends",
+      "category": "trending-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.858261",
+      "image": {
+        "id": "8e9019a3cae86228c83df1a07c09561a668f196bea7675356a2ed6903a6b5a03",
+        "url": "https://picsum.photos/858/513?random=620",
+        "alt": "Featured image for: Trending Pet Grooming Care in 2026: Current Trends",
+        "width": 858,
+        "height": 513
+      }
+    },
+    {
+      "id": 79,
+      "slug": "future-of-trending-pet-grooming-care",
+      "title": "Future of Trending Pet Grooming Care",
+      "category": "trending-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.858293",
+      "image": {
+        "id": "8e9019a3cae86228c83df1a07c09561a668f196bea7675356a2ed6903a6b5a03",
+        "url": "https://picsum.photos/858/513?random=620",
+        "alt": "Featured image for: Future of Trending Pet Grooming Care",
+        "width": 858,
+        "height": 513
+      }
+    },
+    {
+      "id": 80,
+      "slug": "common-mistakes-in-trending-pet-grooming-care",
+      "title": "Common Mistakes in Trending Pet Grooming Care",
+      "category": "trending-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.858325",
+      "image": {
+        "id": "81c3440bf5f21661ec5ba5f9cc6eb95c6d8ff6ff4e82805755b432efca8bdb4d",
+        "url": "https://picsum.photos/898/462?random=688",
+        "alt": "Featured image for: Common Mistakes in Trending Pet Grooming Care",
+        "width": 898,
+        "height": 462
+      }
+    },
+    {
+      "id": 81,
+      "slug": "trending-pet-grooming-care-for-beginners",
+      "title": "Trending Pet Grooming Care for Beginners",
+      "category": "trending-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.858358",
+      "image": {
+        "id": "02a793728257b5ebe5776d883da4264ad86db729858acc9b0f0b5609df8b0f7d",
+        "url": "https://picsum.photos/1129/595?random=70",
+        "alt": "Featured image for: Trending Pet Grooming Care for Beginners",
+        "width": 1129,
+        "height": 595
+      }
+    },
+    {
+      "id": 82,
+      "slug": "advanced-trending-pet-grooming-care-techniques",
+      "title": "Advanced Trending Pet Grooming Care Techniques",
+      "category": "trending-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.858390",
+      "image": {
+        "id": "02a793728257b5ebe5776d883da4264ad86db729858acc9b0f0b5609df8b0f7d",
+        "url": "https://picsum.photos/1129/595?random=70",
+        "alt": "Featured image for: Advanced Trending Pet Grooming Care Techniques",
+        "width": 1129,
+        "height": 595
+      }
+    },
+    {
+      "id": 91,
+      "slug": "the-ultimate-guide-to-pet-grooming-care-tutorials",
+      "title": "The Ultimate Guide to Pet Grooming Care Tutorials",
+      "category": "tutorials-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.858677",
+      "image": {
+        "id": "cc450b46b595a26cb936d316b74e511fcef7fb58e848243bd836a5deb691d241",
+        "url": "https://picsum.photos/1039/493?random=539",
+        "alt": "Featured image for: The Ultimate Guide to Pet Grooming Care Tutorials",
+        "width": 1039,
+        "height": 493
+      }
+    },
+    {
+      "id": 92,
+      "slug": "pet-grooming-care-tutorials-everything-you-need-to-know",
+      "title": "Pet Grooming Care Tutorials: Everything You Need to Know",
+      "category": "tutorials-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.858710",
+      "image": {
+        "id": "8e9019a3cae86228c83df1a07c09561a668f196bea7675356a2ed6903a6b5a03",
+        "url": "https://picsum.photos/858/513?random=620",
+        "alt": "Featured image for: Pet Grooming Care Tutorials: Everything You Need to Know",
+        "width": 858,
+        "height": 513
+      }
+    },
+    {
+      "id": 93,
+      "slug": "understanding-pet-grooming-care-tutorials",
+      "title": "Understanding Pet Grooming Care Tutorials",
+      "category": "tutorials-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.858744",
+      "image": {
+        "id": "81c3440bf5f21661ec5ba5f9cc6eb95c6d8ff6ff4e82805755b432efca8bdb4d",
+        "url": "https://picsum.photos/898/462?random=688",
+        "alt": "Featured image for: Understanding Pet Grooming Care Tutorials",
+        "width": 898,
+        "height": 462
+      }
+    },
+    {
+      "id": 94,
+      "slug": "pet-grooming-care-tutorials-tips-and-best-practices",
+      "title": "Pet Grooming Care Tutorials Tips and Best Practices",
+      "category": "tutorials-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.858777",
+      "image": {
+        "id": "02a793728257b5ebe5776d883da4264ad86db729858acc9b0f0b5609df8b0f7d",
+        "url": "https://picsum.photos/1129/595?random=70",
+        "alt": "Featured image for: Pet Grooming Care Tutorials Tips and Best Practices",
+        "width": 1129,
+        "height": 595
+      }
+    },
+    {
+      "id": 95,
+      "slug": "the-history-of-pet-grooming-care-tutorials",
+      "title": "The History of Pet Grooming Care Tutorials",
+      "category": "tutorials-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.858809",
+      "image": {
+        "id": "8e9019a3cae86228c83df1a07c09561a668f196bea7675356a2ed6903a6b5a03",
+        "url": "https://picsum.photos/858/513?random=620",
+        "alt": "Featured image for: The History of Pet Grooming Care Tutorials",
+        "width": 858,
+        "height": 513
+      }
+    },
+    {
+      "id": 96,
+      "slug": "pet-grooming-care-tutorials-in-2026-current-trends",
+      "title": "Pet Grooming Care Tutorials in 2026: Current Trends",
+      "category": "tutorials-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.858842",
+      "image": {
+        "id": "02a793728257b5ebe5776d883da4264ad86db729858acc9b0f0b5609df8b0f7d",
+        "url": "https://picsum.photos/1129/595?random=70",
+        "alt": "Featured image for: Pet Grooming Care Tutorials in 2026: Current Trends",
+        "width": 1129,
+        "height": 595
+      }
+    },
+    {
+      "id": 97,
+      "slug": "future-of-pet-grooming-care-tutorials",
+      "title": "Future of Pet Grooming Care Tutorials",
+      "category": "tutorials-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.858878",
+      "image": {
+        "id": "cc450b46b595a26cb936d316b74e511fcef7fb58e848243bd836a5deb691d241",
+        "url": "https://picsum.photos/1039/493?random=539",
+        "alt": "Featured image for: Future of Pet Grooming Care Tutorials",
+        "width": 1039,
+        "height": 493
+      }
+    },
+    {
+      "id": 98,
+      "slug": "common-mistakes-in-pet-grooming-care-tutorials",
+      "title": "Common Mistakes in Pet Grooming Care Tutorials",
+      "category": "tutorials-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.858911",
+      "image": {
+        "id": "02a793728257b5ebe5776d883da4264ad86db729858acc9b0f0b5609df8b0f7d",
+        "url": "https://picsum.photos/1129/595?random=70",
+        "alt": "Featured image for: Common Mistakes in Pet Grooming Care Tutorials",
+        "width": 1129,
+        "height": 595
+      }
+    },
+    {
+      "id": 99,
+      "slug": "pet-grooming-care-tutorials-for-beginners",
+      "title": "Pet Grooming Care Tutorials for Beginners",
+      "category": "tutorials-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.858942",
+      "image": {
+        "id": "8e9019a3cae86228c83df1a07c09561a668f196bea7675356a2ed6903a6b5a03",
+        "url": "https://picsum.photos/858/513?random=620",
+        "alt": "Featured image for: Pet Grooming Care Tutorials for Beginners",
+        "width": 858,
+        "height": 513
+      }
+    },
+    {
+      "id": 100,
+      "slug": "advanced-pet-grooming-care-tutorials-techniques",
+      "title": "Advanced Pet Grooming Care Tutorials Techniques",
+      "category": "tutorials-pet-grooming-care",
+      "created_at": "2026-06-04T11:36:26.858975",
+      "image": {
+        "id": "a9a496bc02ff946103c6756ff7e371ba5f303372e1538def8a470447311eaeae",
+        "url": "https://picsum.photos/1200/458?random=145",
+        "alt": "Featured image for: Advanced Pet Grooming Care Tutorials Techniques",
+        "width": 1200,
+        "height": 458
+      }
+    }
+  ],
+  "categories": [
+    "beginner-pet-grooming-care",
+    "advanced-pet-grooming-care",
+    "tips-pet-grooming-care",
+    "history-pet-grooming-care",
+    "trending-pet-grooming-care",
+    "tutorials-pet-grooming-care"
+  ]
+}

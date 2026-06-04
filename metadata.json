@@ -1,0 +1,59 @@
+{
+  "siteId": "pet-grooming-care",
+  "generatedAt": "2026-06-04T11:36:26.904809",
+  "categories": [
+    "beginner-pet-grooming-care",
+    "advanced-pet-grooming-care",
+    "tips-pet-grooming-care",
+    "history-pet-grooming-care",
+    "trending-pet-grooming-care",
+    "tutorials-pet-grooming-care"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-pet-grooming-care",
+      "category_name": "Beginner Pet Grooming Care"
+    },
+    {
+      "category_slug": "advanced-pet-grooming-care",
+      "category_name": "Advanced Pet Grooming Care"
+    },
+    {
+      "category_slug": "tips-pet-grooming-care",
+      "category_name": "Pet Grooming Care Tips"
+    },
+    {
+      "category_slug": "history-pet-grooming-care",
+      "category_name": "Pet Grooming Care History"
+    },
+    {
+      "category_slug": "trending-pet-grooming-care",
+      "category_name": "Trending Pet Grooming Care"
+    },
+    {
+      "category_slug": "tutorials-pet-grooming-care",
+      "category_name": "Pet Grooming Care Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "pet-grooming-care",
+    "color_scheme": {
+      "name": "Purple Dream",
+      "primary": "#6b21a8",
+      "secondary": "#a855f7",
+      "accent": "#d8b4fe",
+      "background": "#faf5ff",
+      "text": "#581c87",
+      "light": "#f3e8ff"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "sidebar",
+    "site_title": "Pet Grooming Care Central",
+    "articles_per_row": 4
+  }
+}
